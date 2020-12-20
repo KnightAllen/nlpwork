@@ -5,7 +5,7 @@ import torch.utils.data as Data
 import torch.nn as nn
 import torch.optim as optim
 from model import PoetryModel
-from dataHandler import *
+from data_process import *
 from config import Config
 #
 
